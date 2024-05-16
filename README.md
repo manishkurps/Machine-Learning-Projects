@@ -1,7 +1,7 @@
 # Machine-Learning-Projects
 
 ## SVM for predicting Closing Price for Three different Bank stock datasets
-Comparing  SVR model with Kernel = Radial Basis Function Kernel, in their effectiveness when applied to predict Closing price of SBI, HDFC and ICICI Stock. A much detailed approach can be found on the accompanying [Medium article](https://medium.com/@rupesh1684/stock-market-prediction-using-machine-learning-model-svm-e4aaca529886)
+Comparing  SVR model with Kernel = Radial Basis Function Kernel, in their effectiveness when applied to predict Closing price of SBI, HDFC and ICICI Stock. A much detailed approach can be found on the accompanying [Medium article](https://medium.com/@rupesh1684/stock-market-prediction-using-machine-learning-model-svm-e4aaca529886), [Geeks For Geeks](https://www.geeksforgeeks.org/stock-price-prediction-using-machine-learning-in-python/)
 
 ### Results (Accuracy)
 - SBI score : 97.28%
