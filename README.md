@@ -1,5 +1,28 @@
 # Machine-Learning-Projects
 
+## Datasets Description
+
+### **Context** : 
+The data is the price history and trading volumes of all three banks datsets from NSE (National Stock Exchange) India. The data in the dataset spans from **14th May, 2020** to **14th May, 2024**.
+
+Dataset link : [SBI](https://finance.yahoo.com/quote/SBIN.NS/history/?period1=1652486400&period2=1715707972), [HDFC](https://finance.yahoo.com/quote/HDFCBANK.NS/history?period1=1589587200&period2=1715849843), [ICICI](https://finance.yahoo.com/quote/ICICIBANK.NS/history?period1=1589587200&period2=1715850148)
+
+### **Columns Description :**
+
+**Date -** Trade Data: Represents the date of the trading data, indicating when the stock market activity occurred.
+
+**Open -** Opening Price for the Day: Represents the initial price at which a stock is traded on a given day.
+
+**High -** Highest Price for the Day: Denotes the highest trading price reached by the stock during the trading day.
+
+**Low -** Lowest Price for the Day: Represents the lowest trading price reached by the stock during the trading day.
+
+**Close -** Closing Price: Indicates the final trading price of the stock at the end of the trading day.
+
+**Adj Close -** The adjusted closing price takes dividends, stock splits, and new stock offerings into account. The adjusted closing price is a more accurate indicator of stock value since it starts where the closing price finishes.
+
+**Volume -** Volume Traded for the Day: Represents the total number of shares or contracts traded during a specific time period, typically a trading day.
+
 ## SVM for predicting Closing Price for Three different Bank stock datasets
 Comparing  SVR model with Kernel = Radial Basis Function Kernel, in their effectiveness when applied to predict Closing price of SBI, HDFC and ICICI Stock. A much detailed approach can be found on the accompanying [Medium article](https://medium.com/@rupesh1684/stock-market-prediction-using-machine-learning-model-svm-e4aaca529886), [Geeks For Geeks](https://www.geeksforgeeks.org/stock-price-prediction-using-machine-learning-in-python/)
 
