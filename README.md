@@ -1,5 +1,7 @@
 # Machine-Learning-Projects
 
+In this project, Support Vector Machines (SVM) with a Radial Basis Function (RBF) kernel were used to predict stock prices for three different banks — **SBI, ICICI, and HDFC**, each analyzed in a separate Jupyter notebook. Historical stock price data from the NSE, covering the period from 14th May 2020 to 14th May 2024, were collected, preprocessed, and used to train the SVM models. The RBF kernel was chosen for its ability to handle non-linear relationships. The models' performance was evaluated using metrics such as Root Mean Squared Error (RMSE) and R-squared. Results showed varying levels of prediction accuracy across the three banks, highlighting the need for tailored approaches and potential further improvements in feature selection and model tuning.
+
 ## Datasets Description
 
 ## **Context** : 
